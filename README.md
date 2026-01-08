@@ -1,9 +1,9 @@
-# Calgary Economic Research Project
+# Canada Economic Research Project
 
 ## Oil Price Shocks & Economic Resilience Analysis (2010-2024)
 
 ### Overview
-Analysis of Calgary's economic response to oil price volatility during major market events.
+Analysis of Canada's economic response to oil price volatility during major market events.
 
 ### Data Sources
 1. Statistics Canada - Alberta economic indicators
