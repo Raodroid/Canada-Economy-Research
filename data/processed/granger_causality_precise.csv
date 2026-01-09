@@ -1,0 +1,22 @@
+Sector,Best_Lag,P_Value,P_Value_Str,Significant_001,Significant_005,Correlation,Corr_Lag
+Other services (except public administration),1,6.037497037437558e-07,0.000001,True,True,0.5058821348848944,1
+Accommodation and food services,1,3.4344508261795443e-06,0.000003,True,True,0.5265924072454392,1
+Health care and social assistance,1,3.507571317923269e-05,0.000035,True,True,0.4476384610138095,1
+Trade 12,1,0.0001030873387814873,0.000103,True,True,0.42296616239421364,1
+Service producing industries 11,1,0.00014709208556206121,0.000147,True,True,0.3271761402876275,1
+Information and cultural industries,1,0.00015643068290680567,0.000156,True,True,0.378037272519966,2
+"Arts, entertainment and recreation",1,0.0002874077759912283,0.000287,True,True,0.3931459731461765,1
+Real estate and rental and leasing,1,0.0006802039350623486,0.000680,True,True,0.2873588294474227,1
+Manufacturing,1,0.0018626506211138546,0.001863,False,True,0.4337993578253113,1
+"Administrative and support, waste management and remediation services",1,0.003748387563250426,0.003748,False,True,0.31677116320836174,1
+Goods producing industries 9,1,0.0047671956151731,0.004767,False,True,0.35329585021170296,1
+Construction,1,0.009129176695220067,0.009129,False,True,0.28878131308118615,1
+Management of companies and enterprises,1,0.009816637937044546,0.009817,False,True,0.163956450358183,2
+"Professional, scientific and technical services",1,0.03802698056401236,0.038027,False,True,0.2901273403638352,2
+Transportation and warehousing,3,0.07220685651518464,0.072207,False,False,0.180776520172763,1
+"Mining, quarrying, and oil and gas extraction",1,0.09184705347081569,0.091847,False,False,0.28861414878432456,2
+Utilities,3,0.20096620834510578,0.200966,False,False,0.1511620871054237,1
+Finance and insurance,1,0.26640457709809984,0.266405,False,False,0.2052901051737281,2
+"Forestry, logging and support 10",1,0.4425640774962366,0.442564,False,False,0.1509238997255565,1
+Educational services,1,0.5230228400832966,0.523023,False,False,-0.04163189443720542,1
+Public administration,3,0.7237412042831535,0.723741,False,False,0.1916008109023147,2
